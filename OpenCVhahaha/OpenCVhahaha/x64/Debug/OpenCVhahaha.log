@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\ADMIN\source\repos\OpenCVhahaha\OpenCVhahaha\x64\Source.cpp(176,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\source\repos\OpenCVhahaha\OpenCVhahaha\x64\Source.cpp(182,16): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  OpenCVhahaha.vcxproj -> C:\Users\ADMIN\source\repos\OpenCVhahaha\x64\Debug\OpenCVhahaha.exe
